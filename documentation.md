@@ -1,6 +1,6 @@
 # UTS PEMWEB
 ### Oleh
-## 2012345678 - ABCDEF
+## 20230803102 - Marizka Aryanni
 ---
 # PROSES SLR
 bash
@@ -51,3 +51,4 @@ Terlampir file BRD berdasarkan hasil SLR dengan nama: **BRD.pdf**
 7. cd resource/views
 8. mkdir layouts && mkdir pages && mkdir partials
 ```
+
