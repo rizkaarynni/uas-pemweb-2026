@@ -41,7 +41,6 @@ Terlampir file BRD berdasarkan hasil SLR dengan nama: **BRD.pdf**
 
 # IMPLEMENTASI WEBSITE
 
-```bash
 1. cd boilerplate
 2. ./start.sh uts-pemweb
 3. cd uts-pemweb
@@ -50,5 +49,12 @@ Terlampir file BRD berdasarkan hasil SLR dengan nama: **BRD.pdf**
 6. template website dengan ide saya diambil dari https://themewagon.com/themes/property-nextjs/ 
 7. cd resource/views
 8. mkdir layouts && mkdir pages && mkdir partials
-```
-
+9. Halaman yang dibuat: Home, Company Profile, Service, Contact, Service Request
+10. Membuat layouts/app.blade.php sebagai layout utama
+11. Membuat pages/home.blade.php sebagai halaman utama
+12. Template dipecah menjadi partials:header, hero, feature, about, service, contact, footer
+13. Membuat Hero dan Feature dinamis dari database
+14. Membuat halaman Company Profile dinamis
+15. Membuat data Service yang dapat dipilih oleh user
+16. Membuat Form Service Request
+17. Menjalankan migration database
